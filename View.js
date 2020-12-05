@@ -5,6 +5,7 @@ function view()
         return (
             <react.fragment>
                 <ContainerView/>
+                <p>update</p>
             </react.fragment>
         )
     }
